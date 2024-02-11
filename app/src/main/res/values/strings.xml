@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Vishavjit_Harika_StressMeter</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="stressmeter">StressMeter</string>
+    <string name="results">Results</string>
+    <string name="touch_image_textView">Touch the image that best captures how stressed you feel right now</string>
+    <string name="more_images">MORE IMAGES</string>
+    <string name="stress_levels_text">A graph showing your Stress Levels</string>
+    <string name="summary_text">Summary of Results</string>
+    <string name="stress">Stress</string>
+    <string name="time">Time</string>
+</resources>
